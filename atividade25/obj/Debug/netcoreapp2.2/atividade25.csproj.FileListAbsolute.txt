@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\atividade25\bin\Debug\netcoreapp2.2\atividade25.deps.json
+C:\Users\fic\Desktop\Csharp\atividade25\bin\Debug\netcoreapp2.2\atividade25.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\atividade25\bin\Debug\netcoreapp2.2\atividade25.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\atividade25\bin\Debug\netcoreapp2.2\atividade25.dll
+C:\Users\fic\Desktop\Csharp\atividade25\bin\Debug\netcoreapp2.2\atividade25.pdb
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.dll
+C:\Users\fic\Desktop\Csharp\atividade25\obj\Debug\netcoreapp2.2\atividade25.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\atividade 16\bin\Debug\netcoreapp2.2\atividade 16.deps.json
+C:\Users\fic\Desktop\Csharp\atividade 16\bin\Debug\netcoreapp2.2\atividade 16.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\atividade 16\bin\Debug\netcoreapp2.2\atividade 16.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\atividade 16\bin\Debug\netcoreapp2.2\atividade 16.dll
+C:\Users\fic\Desktop\Csharp\atividade 16\bin\Debug\netcoreapp2.2\atividade 16.pdb
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.dll
+C:\Users\fic\Desktop\Csharp\atividade 16\obj\Debug\netcoreapp2.2\atividade 16.pdb

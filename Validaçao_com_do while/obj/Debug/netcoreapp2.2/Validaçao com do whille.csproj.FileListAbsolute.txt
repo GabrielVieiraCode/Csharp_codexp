@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\bin\Debug\netcoreapp2.2\Validaçao com do whille.deps.json
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\bin\Debug\netcoreapp2.2\Validaçao com do whille.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\bin\Debug\netcoreapp2.2\Validaçao com do whille.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\bin\Debug\netcoreapp2.2\Validaçao com do whille.dll
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\bin\Debug\netcoreapp2.2\Validaçao com do whille.pdb
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.dll
+C:\Users\fic\Desktop\Csharp\Validaçao_com_do while\obj\Debug\netcoreapp2.2\Validaçao com do whille.pdb

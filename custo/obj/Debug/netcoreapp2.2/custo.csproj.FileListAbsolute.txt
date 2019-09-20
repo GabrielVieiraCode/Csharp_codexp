@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\custo\bin\Debug\netcoreapp2.2\custo.deps.json
+C:\Users\fic\Documents\csharp\custo\bin\Debug\netcoreapp2.2\custo.runtimeconfig.json
+C:\Users\fic\Documents\csharp\custo\bin\Debug\netcoreapp2.2\custo.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\custo\bin\Debug\netcoreapp2.2\custo.dll
+C:\Users\fic\Documents\csharp\custo\bin\Debug\netcoreapp2.2\custo.pdb
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.dll
+C:\Users\fic\Documents\csharp\custo\obj\Debug\netcoreapp2.2\custo.pdb

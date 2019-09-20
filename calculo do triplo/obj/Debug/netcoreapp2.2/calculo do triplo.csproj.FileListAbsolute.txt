@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\csharp\calculo do triplo\bin\Debug\netcoreapp2.2\calculo do triplo.deps.json
+C:\Users\fic\Documents\csharp\calculo do triplo\bin\Debug\netcoreapp2.2\calculo do triplo.runtimeconfig.json
+C:\Users\fic\Documents\csharp\calculo do triplo\bin\Debug\netcoreapp2.2\calculo do triplo.runtimeconfig.dev.json
+C:\Users\fic\Documents\csharp\calculo do triplo\bin\Debug\netcoreapp2.2\calculo do triplo.dll
+C:\Users\fic\Documents\csharp\calculo do triplo\bin\Debug\netcoreapp2.2\calculo do triplo.pdb
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.csprojAssemblyReference.cache
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.AssemblyInfo.cs
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.dll
+C:\Users\fic\Documents\csharp\calculo do triplo\obj\Debug\netcoreapp2.2\calculo do triplo.pdb

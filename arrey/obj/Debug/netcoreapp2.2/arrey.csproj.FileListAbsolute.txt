@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\arrey\bin\Debug\netcoreapp2.2\arrey.deps.json
+C:\Users\fic\Desktop\Csharp\arrey\bin\Debug\netcoreapp2.2\arrey.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\arrey\bin\Debug\netcoreapp2.2\arrey.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\arrey\bin\Debug\netcoreapp2.2\arrey.dll
+C:\Users\fic\Desktop\Csharp\arrey\bin\Debug\netcoreapp2.2\arrey.pdb
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.dll
+C:\Users\fic\Desktop\Csharp\arrey\obj\Debug\netcoreapp2.2\arrey.pdb

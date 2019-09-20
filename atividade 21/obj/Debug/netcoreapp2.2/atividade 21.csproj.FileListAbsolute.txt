@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\atividade 21\bin\Debug\netcoreapp2.2\atividade 21.deps.json
+C:\Users\fic\Desktop\Csharp\atividade 21\bin\Debug\netcoreapp2.2\atividade 21.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\atividade 21\bin\Debug\netcoreapp2.2\atividade 21.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\atividade 21\bin\Debug\netcoreapp2.2\atividade 21.dll
+C:\Users\fic\Desktop\Csharp\atividade 21\bin\Debug\netcoreapp2.2\atividade 21.pdb
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.dll
+C:\Users\fic\Desktop\Csharp\atividade 21\obj\Debug\netcoreapp2.2\atividade 21.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\agencia oficial\bin\Debug\netcoreapp2.2\agencia oficial.deps.json
+C:\Users\fic\Desktop\Csharp\agencia oficial\bin\Debug\netcoreapp2.2\agencia oficial.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\agencia oficial\bin\Debug\netcoreapp2.2\agencia oficial.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\agencia oficial\bin\Debug\netcoreapp2.2\agencia oficial.dll
+C:\Users\fic\Desktop\Csharp\agencia oficial\bin\Debug\netcoreapp2.2\agencia oficial.pdb
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.dll
+C:\Users\fic\Desktop\Csharp\agencia oficial\obj\Debug\netcoreapp2.2\agencia oficial.pdb
